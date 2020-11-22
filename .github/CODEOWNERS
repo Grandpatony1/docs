@@ -18,8 +18,8 @@ package.json @github/docs-engineering
 /translations/ @github/docs-engineering @github/docs-localization @github-actions
 
 # Site Policy
-/content/github/site-policy/ @github/site-policy-admins
+/content/github/site-policy/ tonysierra0000@gmail.com/GrandpaTony1@github/site-policy-admins
 
-# Make sure that Octokit maintainers get notified about changes
+# Make sure that Octokit maintainers get notified about changes/(start involving grandpa)
 # relevant to the Octokit libraries (https://github.com/octokit)
-/content/rest/reference @github/octokit-maintainers
+/content/rest/reference @github/octokit-maintainersyou got to get authorized by Tony Sierra before using these files now!
